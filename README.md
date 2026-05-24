@@ -40,7 +40,7 @@ Google Calendar Event Scheduling
 
 # 📷 Workflow Screenshot
 
-![Personal Learning AI Agent Workflow](./Screenshot%202026-05-24%20184556\(1\).png)
+![Personal-Learning-Path-Generator-using-n8n](./assets/n8n%20workflow%20screenshot.png)
 
 ---
 
